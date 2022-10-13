@@ -1,1 +1,1 @@
-this is configurations file of version 1.
+this is configurations file of version 2.
